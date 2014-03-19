@@ -3,7 +3,7 @@
 
 // Blocks
 
-Block.defineBlock (98:3,'Chiseled Stone Brick',[['stonebrick',3]]),1,false,0)
+Block.defineBlock (100,'Chiseled Stone Brick',[['stonebrick',3]],1,false,0)
 
 // Items
 
