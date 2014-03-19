@@ -3,7 +3,7 @@
 
 // Blocks
 
-Block.defineBlock (100,'Chiseled Stone Brick',[['stonebrick',3]],1,false,0)
+Block.defineBlock (98,3,'Chiseled Stone Brick',[['stonebrick',3]],1,false,0)
 
 // Items
 
@@ -15,6 +15,6 @@ Block.defineBlock (100,'Chiseled Stone Brick',[['stonebrick',3]],1,false,0)
 
 // Crafting Recipes
 
-ModPE.addCraftRecipe (100,[1,0,1,0,1,0,1,0])
+ModPE.addCraftRecipe (98,1,3,[1,0,1,0,1,0,1,0])
 
 // Furnace Recipes
